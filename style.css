@@ -250,10 +250,13 @@ html, body {
 }
 
 .shop-item-image {
-  height: 15em;
+  box-sizing: border-box;
 }
 .phone-stands {
-  height: 20em;
+  height: 25em;
+}
+.flowers{
+  height: 15em;
 }
 
 .shop-item-details {
