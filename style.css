@@ -251,7 +251,7 @@ html, body {
 
 .shop-item-image {
   box-sizing: border-box;
-  border-radius: 15%;
+  border-radius: 8%;
 }
 .phone-stands {
   height: 25em;
